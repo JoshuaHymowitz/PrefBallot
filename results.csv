@@ -1,0 +1,12 @@
+Name,Candidate 1,Candidate 2,Candidate 3,Candidate 4,Candidate 5
+A,Johnson,Clinton,Stein,Trump,
+B,Clinton,Trump,Stein,Johnson,
+C,Johnson,Clinton,Stein,Trump,
+D,Clinton,Stein,Trump,Johnson,
+E,Clinton,Johnson,Stein,Trump,
+F,Trump,Clinton,Stein,Johnson,
+G,Trump,Stein,Clinton,Johnson,
+H,Stein,Clinton,Johnson,Trump,
+I,Clinton,Trump,Stein,Johnson,
+J,Clinton,Stein,Trump,Johnson,
+K,Johnson,Clinton,Stein,Trump,
